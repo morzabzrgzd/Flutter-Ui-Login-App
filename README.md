@@ -1,6 +1,12 @@
-# login_ui
+# Login & Sign Up Screen
 
-A new Flutter project.
+![Screenshot 2021-09-06 005305](https://user-images.githubusercontent.com/87581799/132140600-3269e615-2a39-4bb8-bc8d-276aaa6461ac.jpg)
+![Screenshot 2021-09-06 005253](https://user-images.githubusercontent.com/87581799/132140599-61eaec44-eec6-4d2b-af7a-bcf0110ddc34.jpg)
+
+Design idea:
+https://dribbble.com/shots/9354241-Login-and-Sign-Up-Screen/attachments/1382981?mode=media
+
+
 
 ## Getting Started
 
