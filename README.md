@@ -6,16 +6,7 @@ https://dribbble.com/shots/9354241-Login-and-Sign-Up-Screen/attachments/1382981?
 Link youtube for tutorial this code:
 https://www.youtube.com/watch?v=BIItdr5kEF4&t=228s
 
-![Screenshot 2021-09-06 005305](https://user-images.githubusercontent.com/87581799/132140600-3269e615-2a39-4bb8-bc8d-276aaa6461ac.jpg)
-![Screenshot 2021-09-06 005253](https://user-images.githubusercontent.com/87581799/132140599-61eaec44-eec6-4d2b-af7a-bcf0110ddc34.jpg)
-
-
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![maxresdefault](https://user-images.githubusercontent.com/87581799/133273832-561703f4-bf2b-48fd-b511-d9eaaf8ee9fd.jpg)lication.
 
 A few resources to get you started if this is your first Flutter project:
 
